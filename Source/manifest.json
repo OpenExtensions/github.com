@@ -3,7 +3,7 @@
 
   "name": "OpenExtensions GitHub",
   "description": "Google Chrome Extension to add functionality to GitHub.",
-  "version": "1.0",
+  "version": "1.1.0",
 
   "content_scripts": [
     {
